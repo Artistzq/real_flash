@@ -12,7 +12,7 @@ class RealSystem:
     def __init__(self, features, measurements_path, target_max):
         all_confs = np.array(list(itertools.product(*features))).astype(np.float32)
         all_confs = [str(conf) for conf in all_confs]
-        self.all_confs = set(all_confs)
+        self.all_confs = all_confs
         self.target_max = target_max
         self.eval_data_df = pd.read_csv(measurements_path)
         self.measurements_path = measurements_path
@@ -53,7 +53,7 @@ def argmax_acquisition(model, uneval_configs, target_max=True):
         idx = np.argmax(y)
     else:
         idx = np.argmin(y)
-    return str(X[idx])
+    return str(X[idx]), y[idx]
 
 
 def flash(system, budget):
@@ -71,18 +71,20 @@ def flash(system, budget):
     for i in range(budget):
         # 建模
         X, y = system.get_eval_data()
-        dtr = DecisionTreeRegressor()
+        dtr = DecisionTreeRegressor(random_state=42)
         dtr.fit(X, y)
         
         # 建模后，使用采样函数，从未测量集合中选取下一个测量的点
         # 返回字符串
-        acquired_conf = argmax_acquisition(dtr, uneval_configs, target_max=target_max)
+        acquired_conf, pred_perf = argmax_acquisition(dtr, uneval_configs, target_max=target_max)
+        print("pred perf: {}, ".format(pred_perf), end="")
         
         # 测量配置
         perf = system.measure(acquired_conf)
         
         # 更新配置池
         eval_configs.add(acquired_conf)
+        uneval_configs.remove(acquired_conf)
 
         # 更新系统已测量数据
         system.add_conf_perf(acquired_conf, perf)
