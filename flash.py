@@ -50,9 +50,12 @@ def argmax_acquisition(model, uneval_configs, target_max=True):
     X = np.array([np.array(list(map(float, key[1:-1].split()))) for key in uneval_configs])
     y = model.predict(X)
     if target_max:
-        idx = np.argmax(y)
+        optimal = np.max(y)
     else:
-        idx = np.argmin(y)
+        optimal = np.min(y)
+    indices = np.where(y == optimal)[0]
+    np.random.seed(42)
+    idx = np.random.choice(indices)
     return str(X[idx]), y[idx]
 
 
