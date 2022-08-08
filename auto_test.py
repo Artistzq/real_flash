@@ -33,7 +33,7 @@ desired_caps = {
     "appActivity": ".StartActivity",
     # 'appActivity': '.gui.MainActivity',
     'noReset': True,  # 不要重置App，如果为False的话，执行完脚本后，app的数据会清空，比如你原本登录了，执行完脚本后就退出登录了
-    'newCommandTimeout': 7200,  # 命令的时间间隔
+    'newCommandTimeout': 72000,  # 命令的时间间隔
     # 'unicodeKeyboard': True,  # 绕过手机键盘操作，unicodeKeyboard是使用unicode编码方式发送字符串，即中文
     # 'resetKeyboard': True,  # 绕过手机键盘操作，resetKeyboard是将键盘隐藏起来
 }
@@ -62,8 +62,8 @@ time.sleep(1800)
 
 # 获取功耗
 app_cost = get_app_cost(app_uid=app_uid)
-with open("res.txt", "a+") as f:
-    f.write(str(app_cost))
+# with open("res.txt", "a+") as f:
+#     f.write(str(app_cost))
 print(f"App total cost: {app_cost} mAh")
 
 print("done")
