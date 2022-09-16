@@ -1,0 +1,160 @@
+65.256223 UID u0a237: 65.3 ( screen=26.7 cpu=4.50 audio=25.0 video=8.34 system_services=0.000223 wifi=0.716 )
+66.812908 UID u0a237: 66.8 ( screen=28.0 cpu=4.60 audio=25.0 video=8.34 system_services=0.000908 wifi=0.872 )
+65.452549 UID u0a237: 65.5 ( screen=26.7 cpu=4.52 audio=25.0 video=8.35 system_services=0.000549 wifi=0.882 )
+
+62.89109 UID u0a237: 62.8 ( screen=29.1 cpu=7.33 audio=25.1 system_services=0.00109 wifi=0.886 GPU=0.474 )
+62.44734 UID u0a237: 62.5 ( screen=29.9 cpu=6.19 audio=25.0 system_services=0.00234 wifi=0.873 GPU=0.482 )
+61.26939 UID u0a237: 61.3 ( screen=28.8 cpu=6.14 audio=25.0 system_services=0.00239 wifi=0.816 GPU=0.511 )
+
+65.428463 UID u0a237: 65.4 ( screen=27.2 cpu=4.01 audio=25.0 video=8.34 system_services=0.000463 wifi=0.878 )
+64.43738 UID u0a237: 64.5 ( screen=26.3 cpu=3.84 audio=25.0 video=8.34 system_services=0.000380 wifi=0.957 )
+65.0523849 UID u0a237: 65.1 ( screen=26.6 cpu=4.28 audio=25.0 video=8.34 system_services=0.000385 wifi=0.832 )
+
+65.49234 UID u0a237: 65.5 ( screen=29.5 cpu=9.57 audio=25.0 system_services=0.00134 wifi=0.876 GPU=0.545 )
+61.98442 UID u0a237: 62.0 ( screen=29.2 cpu=9.39 audio=22.1 system_services=0.00842 wifi=0.854 GPU=0.432 )
+70.45896 UID u0a237: 70.5 ( screen=33.0 cpu=11.0 audio=25.0 system_services=0.00296 wifi=0.976 GPU=0.480 )
+68.173 UID u0a237: 68.2 ( screen=29.0 cpu=12.6 audio=25.0 wifi=0.943 GPU=0.631 )
+67.924 UID u0a237: 67.9 ( screen=30.3 cpu=11.2 audio=25.0 wifi=0.788 GPU=0.636 ) 
+70.061 UID u0a237: 70.0 ( screen=29.8 cpu=13.8 audio=25.1 wifi=0.824 GPU=0.537 )
+
+64.591 UID u0a237: 64.6 ( screen=27.7 cpu=10.4 audio=25.0 wifi=0.893 GPU=0.598 )
+66.271 UID u0a237: 66.3 ( screen=29.5 cpu=10.2 audio=25.0 wifi=0.898 GPU=0.673 )
+65.276233 UID u0a237: 65.3 ( screen=28.0 cpu=10.7 audio=25.1 system_services=0.000233 wifi=0.869 GPU=0.607 )
+
+59.516 UID u0a237: 59.5 ( screen=28.1 cpu=5.13 audio=25.0 wifi=0.805 GPU=0.481 )
+63.05 UID u0a237: 63.0 ( screen=29.4 cpu=7.19 audio=25.0 wifi=0.942 GPU=0.518 )
+61.186 UID u0a237: 61.2 ( screen=30.1 cpu=4.73 audio=25.0 system_services=0.000990 wifi=0.847 GPU=0.508 ) 
+62.759 UID u0a237: 62.8 ( screen=28.9 cpu=7.44 audio=25.0 wifi=0.909 GPU=0.510 ) 
+
+65.885 UID u0a237: 65.9 ( screen=28.2 cpu=11.3 audio=25.0 wifi=0.811 GPU=0.574 )
+64.760079 UID u0a237: 64.8 ( screen=27.6 cpu=10.7 audio=25.0 system_services=0.0000790 wifi=0.810 GPU=0.650 )
+65.690466 UID u0a237: 65.7 ( screen=28.4 cpu=10.8 audio=25.0 system_services=0.000466 wifi=0.844 GPU=0.646 )
+65.988 UID u0a237: 66.0 ( screen=28.3 cpu=11.0 audio=25.0 wifi=1.04 GPU=0.648 ) 
+# 69.574 UID u0a237: 69.7 ( screen=27.8 cpu=15.3 audio=25.0 wifi=0.865 GPU=0.609 )
+65.591 UID u0a237: 65.6 ( screen=28.3 cpu=10.8 audio=25.0 wifi=0.827 GPU=0.664 )
+65.744 UID u0a237: 65.7 ( screen=28.7 cpu=10.8 audio=25.0 wifi=0.869 GPU=0.375 )
+
+63.584604 UID u0a237: 63.6 ( screen=29.2 cpu=7.83 audio=25.0 system_services=0.000604 wifi=0.910 GPU=0.644 ) 
+66.4570442 UID u0a237: 66.6 ( screen=29.2 cpu=10.8 audio=25.0 system_services=0.0000442 wifi=0.853 GPU=0.604 )
+66.507 UID u0a237: 66.5 ( screen=29.5 cpu=10.5 audio=25.0 wifi=0.858 GPU=0.649 )
+
+66.875413 UID u0a237: 66.9 ( screen=28.9 cpu=11.4 audio=25.0 system_services=0.000413 wifi=0.930 GPU=0.645 ) 
+64.617064 UID u0a237: 64.6 ( screen=27.9 cpu=10.2 audio=25.0 system_services=0.0000637 wifi=0.913 GPU=0.604 )
+64.6  UID u0a237: 64.6 ( screen=27.9 cpu=10.2 audio=25.0 system_services=0.0000637 wifi=0.913 GPU=0.604 )
+
+73.098 UID u0a237: 73.1 ( screen=29.1 cpu=17.6 audio=25.0 wifi=0.801 GPU=0.597 ) 
+65.234 UID u0a237: 65.1 ( screen=28.5 cpu=10.2 audio=25.1 wifi=0.877 GPU=0.557 ) 
+64.555423 UID u0a237: 64.6 ( screen=28.3 cpu=9.70 audio=25.0 system_services=0.000423 wifi=0.893 GPU=0.662 )
+65.49516 UID u0a237: 65.5 ( screen=28.0 cpu=11.0 audio=25.0 system_services=0.000170 wifi=0.847 GPU=0.648 )
+
+64.847327 UID u0a237: 64.9 ( screen=26.4 cpu=4.35 audio=25.0 video=8.34 system_services=0.000327 wifi=0.757 )
+65.06004 UID u0a237: 65.1 ( screen=26.1 cpu=4.68 audio=25.0 video=8.34 system_services=0.00104 wifi=0.939 )
+66.270353 UID u0a237: 66.3 ( screen=26.3 cpu=5.72 audio=25.0 video=8.34 system_services=0.000353 wifi=0.910 ) 
+
+61.16 UID u0a237: 61.2 ( screen=28.8 cpu=6.14 audio=25.0 wifi=0.804 GPU=0.416 )
+61.737 UID u0a237: 61.7 ( screen=29.2 cpu=6.20 audio=25.0 wifi=0.886 GPU=0.451 )
+61.225 UID u0a237: 61.3 ( screen=28.8 cpu=6.12 audio=25.0 wifi=0.804 GPU=0.501 )
+
+62.992 UID u0a237: 63.0 ( screen=30.3 cpu=6.46 audio=25.0 wifi=0.701 GPU=0.531 )
+61.245 UID u0a237: 61.2 ( screen=28.9 cpu=5.86 audio=25.0 wifi=0.984 GPU=0.501 )
+61.718 UID u0a237: 61.7 ( screen=29.3 cpu=5.93 audio=25.0 wifi=0.943 GPU=0.545 )
+
+66.606 UID u0a237: 66.7 ( screen=28.7 cpu=11.5 audio=25.0 wifi=0.846 GPU=0.560 )
+66.517 UID u0a237: 66.5 ( screen=28.3 cpu=11.6 audio=25.0 wifi=0.947 GPU=0.670 )
+69.100143 UID u0a237: 69.2 ( screen=29.9 cpu=12.7 audio=25.0 system_services=0.000143 wifi=0.901 GPU=0.599 )
+
+66.778 UID u0a237: 66.8 ( screen=29.1 cpu=11.2 audio=25.0 wifi=0.812 GPU=0.666 )
+66.535 UID u0a237: 66.6 ( screen=29.0 cpu=10.9 audio=25.0 wifi=0.958 GPU=0.677 )
+65.228252 UID u0a237: 65.3 ( screen=28.7 cpu=9.99 audio=25.0 system_services=0.000252 wifi=0.897 GPU=0.641 )
+
+61.99 UID u0a237: 62.1 ( screen=28.9 cpu=6.72 audio=25.0 wifi=0.884 GPU=0.486 )
+61.776 UID u0a237: 61.8 ( screen=29.0 cpu=6.32 audio=25.0 wifi=0.911 GPU=0.545 )
+64.204 UID u0a237: 64.3 ( screen=29.8 cpu=8.07 audio=25.0 wifi=0.856 GPU=0.478 )
+
+62.436 UID u0a237: 62.4 ( screen=29.7 cpu=6.26 audio=25.0 wifi=0.939 GPU=0.537 )
+61.568 UID u0a237: 61.6 ( screen=29.3 cpu=5.84 audio=25.0 wifi=0.932 GPU=0.496 )
+63.435 UID u0a237: 63.5 ( screen=30.2 cpu=6.81 audio=25.0 wifi=0.886 GPU=0.539 )
+
+65.283 UID u0a237: 65.4 ( screen=27.9 cpu=11.0 audio=25.0 wifi=0.772 GPU=0.611 )
+66.257 UID u0a237: 66.3 ( screen=29.1 cpu=10.6 audio=25.0 wifi=0.903 GPU=0.654 )
+66.125 UID u0a237: 66.2 ( screen=28.6 cpu=11.0 audio=25.0 wifi=0.926 GPU=0.599 )
+
+67.564534 UID u0a237: 67.6 ( screen=26.7 cpu=6.66 audio=25.0 video=8.34 system_services=0.000534 wifi=0.864 )
+66.15731 UID u0a237: 66.2 ( screen=27.3 cpu=4.61 audio=25.0 video=8.34 system_services=0.000310 wifi=0.907 )
+65.528424 UID u0a237: 65.5 ( screen=26.2 cpu=5.10 audio=25.0 video=8.34 system_services=0.000424 wifi=0.888 )
+
+66.947253 UID u0a237: 67.0 ( screen=28.4 cpu=4.38 audio=25.0 video=8.34 system_services=0.000253 wifi=0.827 )
+64.794324 UID u0a237: 64.9 ( screen=26.2 cpu=4.38 audio=25.0 video=8.35 system_services=0.000324 wifi=0.864 )
+65.150632 UID u0a237: 65.1 ( screen=26.5 cpu=4.42 audio=25.0 video=8.34 system_services=0.000632 wifi=0.890 )
+
+
+FLASH
+61.353207 UID u0a237: 61.4 ( screen=28.8 cpu=6.10 audio=25.0 system_services=0.000207 wifi=0.899 GPU=0.554 )
+61.942 UID u0a237: 62.0 ( screen=29.3 cpu=6.21 audio=25.0 wifi=0.933 GPU=0.499 )
+60.958 UID u0a237: 61.0 ( screen=28.9 cpu=5.69 audio=25.0 wifi=0.828 GPU=0.540 )
+
+
+62.936 UID u0a237: 64.0 ( screen=30.8 cpu=6.60 audio=25.1 wifi=0.969 GPU=0.520 )
+63.989 UID u0a237: 64.0 ( screen=30.8 cpu=6.60 audio=25.1 wifi=0.969 GPU=0.520 )
+60.540 UID u0a237: 60.5 ( screen=28.3 cpu=5.75 audio=25.1 system_services=0.000235 wifi=0.920 GPU=0.470 )
+60.911 UID u0a237: 60.9 ( screen=28.9 cpu=5.61 audio=25.0 system_services=0.0000453 wifi=0.887 GPU=0.514 )
+60.725 UID u0a237: 60.7 ( screen=28.6 cpu=5.78 audio=25.0 system_services=0.0000401 wifi=0.883 GPU=0.462 )
+
+# 63.367 UID u0a237: 63.4 ( screen=30.2 cpu=6.76 audio=25.0 wifi=0.890 GPU=0.517 )
+61.730 UID u0a237: 61.7 ( screen=28.9 cpu=6.44 audio=25.0 wifi=0.872 GPU=0.518 )
+61.768 UID u0a237: 61.8 ( screen=29.7 cpu=5.70 audio=25.1 system_services=0.00558 wifi=0.792 GPU=0.470 )
+61.190 UID u0a237: 61.2 ( screen=29.0 cpu=5.92 audio=25.0 wifi=0.897 GPU=0.373 )
+
+
+60.707 UID u0a237: 60.7 ( screen=28.5 cpu=5.89 audio=25.0 system_services=0.0000947 wifi=0.838 GPU=0.479 )
+61.282 UID u0a237: 61.3 ( screen=29.2 cpu=5.76 audio=25.0 system_services=0.000177 wifi=0.848 GPU=0.474 )
+61.124 UID u0a237: 61.1 ( screen=28.9 cpu=5.75 audio=25.0 system_services=0.000180 wifi=0.954 GPU=0.520 )
+
+62.2319 UID u0a237: 62.3 ( screen=29.3 cpu=6.61 audio=25.0 system_services=0.0209 wifi=0.810 GPU=0.491 )
+61.656 UID u0a237: 61.7 ( screen=28.6 cpu=6.60 audio=25.0 wifi=0.939 GPU=0.517 )
+61.603 UID u0a237: 61.6 ( screen=29.6 cpu=5.65 audio=25.0 system_services=0.0000452 wifi=0.920 GPU=0.433 )
+
+61.757 UID u0a237: 61.8 ( screen=29.3 cpu=5.97 audio=25.0 wifi=0.945 GPU=0.542 )
+64.829 UID u0a237: 64.8 ( screen=30.7 cpu=7.71 audio=25.0 wifi=0.897 GPU=0.522 )
+63.015 UID u0a237: 63.1 ( screen=29.8 cpu=6.84 audio=25.0 wifi=0.821 GPU=0.554 )
+61.861 UID u0a237: 61.9 ( screen=28.2 cpu=7.24 audio=25.0 system_services=0.0000434 wifi=0.872 GPU=0.549 )
+61.516 UID u0a237: 61.5 ( screen=28.5 cpu=6.80 audio=25.0 system_services=0.000260 wifi=0.777 GPU=0.439 )
+
+61.629 UID u0a237: 61.7 ( screen=28.3 cpu=7.05 audio=25.0 wifi=0.802 GPU=0.477 )
+62.907 UID u0a237: 62.9 ( screen=30.4 cpu=6.07 audio=25.0 wifi=0.885 GPU=0.552 )
+61.977 UID u0a237: 62.0 ( screen=30.0 cpu=5.72 audio=25.0 wifi=0.733 GPU=0.524 )
+
+63.698 UID u0a237: 63.7 ( screen=30.2 cpu=7.11 audio=25.0 system_services=0.000178 wifi=0.851 GPU=0.537 )
+61.366 UID u0a237: 61.4 ( screen=29.2 cpu=5.82 audio=25.0 wifi=0.846 GPU=0.500 )
+62.000 UID u0a237: 62.0 ( screen=29.3 cpu=6.26 audio=25.0 wifi=0.895 GPU=0.545 )
+
+60.791 UID u0a237: 60.8 ( screen=28.8 cpu=5.63 audio=25.0 system_services=0.000278 wifi=0.871 GPU=0.490 )
+62.247 UID u0a237: 62.3 ( screen=29.7 cpu=6.22 audio=25.0 wifi=0.817 GPU=0.510 )
+62.072 UID u0a237: 62.1 ( screen=30.1 cpu=5.61 audio=25.0 system_services=0.000205 wifi=0.884 GPU=0.478 )
+60.694 UID u0a237: 60.7 ( screen=28.6 cpu=5.52 audio=25.1 system_services=0.000741 wifi=0.940 GPU=0.533 )
+62.783 UID u0a237: 62.8 ( screen=30.0 cpu=6.33 audio=25.0 system_services=0.000227 wifi=0.928 GPU=0.525 )
+60.757 UID u0a237: 60.8 ( screen=28.8 cpu=5.63 audio=25.0 wifi=0.869 GPU=0.458 )
+60.943 UID u0a237: 60.9 ( screen=28.6 cpu=5.89 audio=25.1 system_services=0.00130 wifi=0.910 GPU=0.442 )
+61.909 UID u0a237: 61.9 ( screen=29.5 cpu=5.77 audio=25.0 system_services=0.000732 wifi=1.10 GPU=0.538 )
+62.949 UID u0a237: 62.9 ( screen=29.8 cpu=6.40 audio=25.0 system_services=0.000113 wifi=1.23 GPU=0.519 )
+
+63.272 UID u0a237: 63.2 ( screen=29.5 cpu=6.93 audio=25.1 wifi=1.23 GPU=0.512 )
+62.536 UID u0a237: 62.6 ( screen=29.9 cpu=5.96 audio=25.0 wifi=1.13 GPU=0.546 )
+66.443 UID u0a237: 66.4 ( screen=30.0 cpu=10.1 audio=25.1 wifi=0.710 GPU=0.533 )
+62.949 UID u0a237: 63.0 ( screen=30.2 cpu=6.40 audio=25.0 system_services=0.000438 wifi=0.863 GPU=0.486 )
+61.052 UID u0a237: 61.1 ( screen=28.9 cpu=5.73 audio=25.0 wifi=0.897 GPU=0.525 )
+
+61.052 UID u0a237: 61.1 ( screen=28.9 cpu=5.73 audio=25.0 wifi=0.897 GPU=0.525 )
+63.024 UID u0a237: 63.1 ( screen=30.4 cpu=6.21 audio=25.0 wifi=0.878 GPU=0.536 )
+62.572 UID u0a237: 62.6 ( screen=29.1 cpu=7.15 audio=25.0 wifi=0.835 GPU=0.487 )
+62.508 UID u0a237: 62.5 ( screen=29.8 cpu=6.33 audio=25.0 system_services=0.0000532 wifi=0.848 GPU=0.530 )
+
+64.581 UID u0a237: 64.6 ( screen=29.6 cpu=8.58 audio=25.0 system_services=0.000370 wifi=0.859 GPU=0.542 )
+62.490 UID u0a237: 62.5 ( screen=29.0 cpu=7.05 audio=25.0 wifi=0.914 GPU=0.526 )
+60.680 UID u0a237: 60.7 ( screen=28.8 cpu=5.56 audio=25.0 wifi=0.847 GPU=0.473 )
+60.759 UID u0a237: 60.8 ( screen=28.8 cpu=5.72 audio=25.0 system_services=0.0000794 wifi=0.792 GPU=0.447 )
+61.634 UID u0a237: 61.6 ( screen=28.6 cpu=6.56 audio=25.0 wifi=0.946 GPU=0.528 )
+
+64.956 UID u0a237: 65.0 ( screen=30.2 cpu=8.26 audio=25.0 wifi=0.963 GPU=0.533 )
+62.795 UID u0a237: 62.8 ( screen=29.3 cpu=7.11 audio=25.0 wifi=0.872 GPU=0.513 )
+63.113 UID u0a237: 63.2 ( screen=29.6 cpu=7.26 audio=25.0 system_services=0.0000445 wifi=0.718 GPU=0.535 )

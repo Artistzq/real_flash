@@ -16,6 +16,7 @@ def get_app_uid():
 def get_app_cost(app_uid):
     process = subprocess.Popen(f'adb shell "dumpsys batterystats | grep \'UID {app_uid}\'"', shell=False, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     target_log = process.communicate()[0].decode()
+    print(target_log)
     details = target_log[target_log.find("(") + 1 : target_log.find(")")].strip()
     details = details.split(" ")
     total_cost = 0.
@@ -54,13 +55,17 @@ driver.find_element(by=AppiumBy.ID, value="org.videolan.vlc:id/nav_more").click(
 time.sleep(1)
 driver.find_element(by=AppiumBy.ID, value="org.videolan.vlc:id/mrl_item_uri").click()
 
-time.sleep(900)
+# ans = 0
+for i in range(1):
+    print("i： ", i+1)
+    time.sleep(1200)
 
-# 获取功耗
-app_cost = get_app_cost(app_uid=app_uid)
-with open("res.txt", "a+") as f:
-    f.write(str(app_cost))
-print(f"App total cost: {app_cost} mAh")
+    # 获取功耗
+    app_cost = get_app_cost(app_uid=app_uid)
+    print(f"App total cost: {app_cost} mAh") 
+    
+    # 保存文件
+    subprocess.call('adb shell dumpsys batterystats > /sdcard/Documents/{}_consumption.txt'.format(time.strftime("%Y_%m_%d_%H_%M_%S")))
 
 print("done")
 driver.quit()

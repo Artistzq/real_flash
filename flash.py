@@ -7,9 +7,13 @@ import pandas as pd
 import random
 from sklearn.tree import DecisionTreeRegressor
 
+# 取消科学计数法
+np.set_printoptions(suppress=True)
+
 # %%
 class RealSystem:
     def __init__(self, features, measurements_path, target_max):
+        features = list(features.values())
         all_confs = np.array(list(itertools.product(*features))).astype(np.float32)
         all_confs = [str(conf) for conf in all_confs]
         self.all_confs = all_confs
@@ -95,16 +99,17 @@ def flash(system, budget):
     print("flash done")
 
 # %%
-features = [
-    [0, 1, 2],
-    [0, 30, 70, 100],
-    [0, 1],
-    [0, 1],
-    [0, 1],
-    [0, 1],
-    [0, 1]
-]
-system = RealSystem(features, "./data.csv", target_max=False)
+features = {
+    "网络缓存值": [0, 500, 1000, 2000],
+    "优先使用SMBv1协议": [0, 1],
+    "启用音频的时间伸缩": [0, 1],
+    "跳帧": [0, 1],
+    "硬件加速": [0, 1, 2],
+    "首选视频分辨率": [0, 1, 2],
+    "启用回放增益": [0, 1],
+    "音频输出": [0, 1]
+}
+system = RealSystem(features, "./data/20min_data.csv", target_max=False)
 flash(system, 15)
 # system.all_confs8.57361
 
